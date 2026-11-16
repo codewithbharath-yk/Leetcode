@@ -10,7 +10,7 @@ public:
             prod=prod*rev;
             m=m/10;
         }
-        return(prod-sum);
+        return (prod-sum);
     
     }
 };
