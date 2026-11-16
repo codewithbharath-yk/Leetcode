@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/codewithbharath-yk/Leetcode/tree/master/0048-rotate-image) |
 | [0766-toeplitz-matrix](https://github.com/codewithbharath-yk/Leetcode/tree/master/0766-toeplitz-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/codewithbharath-yk/Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/codewithbharath-yk/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
