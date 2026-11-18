@@ -29,5 +29,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/codewithbharath-yk/Leetcode/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/codewithbharath-yk/Leetcode/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
